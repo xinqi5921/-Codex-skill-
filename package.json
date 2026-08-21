@@ -1,0 +1,32 @@
+{
+  "name": "meta-agent-plugin",
+  "version": "1.0.0",
+  "description": "Meta-Agent: Universal task orchestration plugin for Codex CLI",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node tests",
+    "dev": "node src/index.js",
+    "build": "echo build"
+  },
+  "keywords": [
+    "codex",
+    "skill",
+    "agent",
+    "orchestrator",
+    "plugin"
+  ],
+  "author": "xinqi5921",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xinqi5921/-Codex-skill-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xinqi5921/-Codex-skill-/issues"
+  },
+  "homepage": "https://github.com/xinqi5921/-Codex-skill#readme",
+  "type": "module"
+}
